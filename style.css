@@ -831,8 +831,8 @@ body .footer-main-wrap-x .btn,
         line-height: 1.55;
         font-weight: 600;
         color: #121212;
-        border-top: 1px solid var(--color-border);
-        border-bottom: 1px solid var(--color-border);
+        border-top: 0;
+        border-bottom: 0;
     }
 
     .fine-print p {
